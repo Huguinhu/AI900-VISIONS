@@ -1,0 +1,64 @@
+# Detect faces in an image
+## store-camera-1 Face #1 Face mask: no
+## store-camera-2 Face #1 Face mask: no Face #2 Face mask: no Face #3 Face mask: no
+## store-camera-3 No face detected
+
+# Extract text from images
+## advert 
+### NorthwindTraders
+### PIEWINNER
+### Freshproduce,
+### friendlyservice
+### Open7daysaweek
+
+## letter
+### January23rd2020
+### Fortheattentionof:
+### Themanager
+### NorthwindTraders
+### 123AnyStreet
+### Bellevue,WA
+### DearSirorMadam,
+### IamwritingtothankyouforthefantasticserviceIreceivedat
+### yourstoreonJanuary20th.Thestoreassistantwhohelpedmewas
+### extremelypleasantandattentive;andtookthetimetofindallof
+### thefreshproduceIneeded.
+### I'vealwaysfoundthequalityoftheproduceinyourstoretobe
+### high,andthepricestobecompetitive;andthehelpfulnessofyour
+### employeesisanotherreasonIwillcontinuetoremainaloyal
+### NorthwindTraderscustomer.
+### Sincerely,
+### ACustomer
+### A.Customer
+
+## note
+### ShoppingList
+### Non-Fatmilk
+### Bread
+### Eggs
+
+## receipt
+### NorthwindTraders
+### 123MainStreet
+### 555-123-4567
+### 2/17/202013:07
+### 1Apple
+### $0.90
+### 1Orange
+### $0.80
+### Sub-Total
+### $1.70
+### Tax
+### $0.17
+### Total
+### $1.87
+
+## uniasselvi-b
+### uniasselvi
+
+# Add captions to images
+## hugo
+### A man standing in a room with chairs and a ceiling
+
+## Elis
+### A woman with curly hair smiling
